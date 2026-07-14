@@ -165,3 +165,5 @@ const getCartAmount = ()=>{
 export const useAppContext = ()=>{
     return useContext(AppContext)
 }
+
+export default AppContextProvider;
